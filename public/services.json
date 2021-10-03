@@ -1,0 +1,42 @@
+[
+    {
+        "id": 100,
+        "subject": "Fuzzy Logic",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Fuzzy_logic_temperature_en.svg/330px-Fuzzy_logic_temperature_en.svg.png",
+        "fee": 85,
+        "rate": 5,
+        "duration": 3,
+        "instructor": "Richard Bing",
+        "desp": "This branch of AI is the technique of modifying and representing uncertain information by analyzing the degree to which the hypothesis is true. Fuzzy Logic helps to offer a certain level of reasoning flexibility when faced with uncertainties. This might sound a bit complex but it is simply a case of using standard logic to determine if a concept exhibits a degree of truth. For instance, standard logic is 1.0 if a concept is TRUE and 0.0 if a concept is FALSE. However, there are cases where a concept can either be partially true or partially false. "
+    },
+    {
+        "id": 101,
+        "subject": "Natural Language Processing",
+        "thumb": "https://3u2ako2knsp9wkqg31mgk18e-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/NLP-image.png",
+        "fee": 111,
+        "rate": 5,
+        "duration": 6,
+        "instructor": "Stephen Vox",
+        "desp": "Communicating with someone who doesn’t understand your language can be very challenging and the same can be said of humans trying to communicate with a computer system. A computer will find it difficult to interpret words because it only understands the language of binary digits. This challenge has led to the development of Natural Language Processing in computer science."
+    },
+    {
+        "id": 102,
+        "subject": "Robotics",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg",
+        "fee": 190,
+        "rate": 5,
+        "duration": 8,
+        "instructor": "Kingard Larry",
+        "desp": "This is a very interesting branch of Artificial Intelligence that focuses on the design and development of robots. Robotics deals with the designing, constructing, and operating of robots by incorporating both science and engineering techniques.  The aim of deploying robots is to help humans with tedious and bulky tasks. These tasks involve the control of computer systems, information transformation and manufacturing of automobiles. It is used by NASA to move heavy objects in space. "
+    },
+    {
+        "id": 103,
+        "subject": "Quantum Computing",
+        "thumb": "https://cdn.images.express.co.uk/img/dynamic/151/590x/quantum-computer-667054.jpg",
+        "fee": 109,
+        "rate": 5,
+        "duration": 6,
+        "instructor": "Alen Boby",
+        "desp": "Quantum computing is an area of computing focused on developing computer technology based on the principles of quantum theory (which explains the behavior of energy and material on the atomic and subatomic levels). Computers used today can only encode information in bits that take the value of 1 or 0—restricting their ability. Quantum computing, on the other hand, uses quantum bits or qubits. It harnesses the unique ability of subatomic particles that allows them to exist in more than one state (i.e., a 1 and a 0 at the same time)."
+    }
+]
