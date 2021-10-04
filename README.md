@@ -1,6 +1,6 @@
 # Future CS
 
-Future CS is an educational site. Future CS teaches advanced Computer Science related subjects that will rule the world in the future.(https://future-cs-router-9.netlify.app/about).
+Future CS is an educational site. Future CS teaches advanced Computer Science related subjects that will rule the world in the future.(https://future-cs-router-9.netlify.app/).
 
 ## Functionalities of this project 
 
