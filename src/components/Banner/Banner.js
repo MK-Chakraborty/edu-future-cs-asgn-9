@@ -13,7 +13,7 @@ const Banner = () => {
                     <Container className="bg-info p-5 bannerStyle">
                         <Row>
                             <Col xs={12} sm={12} md={6} lg={6} className="d-flex align-items-center py-5">
-                                <h1>Welcome To <i> Future <i className="fas fa-satellite"></i> CS</i>! </h1>
+                                <h1>Welcome To <i> future <i className="fas fa-satellite"></i> CS</i>! </h1>
                             </Col>
                             <Col xs={12} sm={12} md={6} lg={6} className="py-5">
                                 <img

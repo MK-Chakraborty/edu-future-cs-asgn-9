@@ -14,7 +14,7 @@ const MenuBar = () => {
                             <NavLink to="/home" className="pe-3 text-decoration-none text-dark"><h4>Home</h4></NavLink>
                             <NavLink to="/services" className="pe-3 text-decoration-none text-dark"><h4>Services</h4></NavLink>
                             <NavLink to="/about" className="pe-3 text-decoration-none text-dark"><h4>About</h4></NavLink>
-                            <NavLink to="/policy" className=" text-decoration-none text-dark"><h4>Policy</h4></NavLink>
+                            <NavLink to="/faq" className=" text-decoration-none text-dark"><h4>FAQ</h4></NavLink>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

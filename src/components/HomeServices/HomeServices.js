@@ -15,7 +15,7 @@ const HomeServices = (props) => {
                         <p><Badge pill bg="secondary" className="p-2">Instructor: </Badge> {instructor}</p>
                         <p>{desp.slice(0,180)} ...</p>
                         <h6>Course Duration: {duration} Months</h6>
-                        <h5>{rate} <i class="fas fa-star"></i></h5>
+                        <h5>{rate} <i className="fas fa-star"></i></h5>
                         <h5>Course Fee: {fee} $</h5>
                     </Col>
                 </Row>
