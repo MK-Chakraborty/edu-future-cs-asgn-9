@@ -1,10 +1,8 @@
 # Future CS
 
-Future CS is an educational site. Future CS teaches advanced Computer Science related subjects that will rule the world in the future.(https://github.com/facebook/create-react-app).
+Future CS is an educational site. Future CS teaches advanced Computer Science related subjects that will rule the world in the future.(https://future-cs-router-9.netlify.app/about).
 
 ## Functionalities of this project 
-
-In the project directory, you can run:
 
 ### This site is developed with React JS.
 ### React Router is used for navigation.
